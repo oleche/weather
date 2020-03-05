@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: url('https://user-images.githubusercontent.com/13624950/71143221-c422d300-21e7-11ea-88aa-dac052533208.png') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+h1, h2, hr, span {
+  color:#FFF;
+}
+
+hr {
+  border-color: #fff;
+}
+
+h1 {
+  text-shadow: 2px 2px #ccc;
+  font-weight: bolder;
+  font-size: 9vh;
+}
